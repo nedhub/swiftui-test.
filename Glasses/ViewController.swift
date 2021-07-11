@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Glasses
 //
-//  Created by Ned Ememanka on 2021-07-10.
+
 //
 
 import UIKit
